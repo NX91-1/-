@@ -12,3 +12,15 @@
 
 tiktok nx.9.1
 youtube Nox_9111
+
+
+هذي اوامر تحميل البايثون على ish للي مايعرفون
+# 1. تحديث قائمة الحزم (خطوة مستحبة)
+apk update
+
+# 2. تثبيت Python 3 و pip معًا بأمر واحد
+apk add python3 py3-pip
+
+# 3. تأكد من التثبيت
+python3 --version
+pip3 --version
